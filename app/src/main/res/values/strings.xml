@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">遥遥的历程视频上传软件</string>
+    <string name="title_section1">拍新视频</string>
+    <string name="title_section2">传旧视频</string>
+    <string name="title_section3">现有视频</string>
+    <string name="title_section4">关于</string>
+    <string name="navigation_drawer_open">打开</string>
+    <string name="navigation_drawer_close">关闭</string>
+    <string name="action_example">开始上传</string>
+    <string name="action_settings">设置</string>
+    <string name="action_example_press">正在上传，可能需要数分钟，请耐心等待，或者你可以看看现有视频？</string>
+</resources>
